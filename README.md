@@ -1,4 +1,4 @@
-# Human-Computer-Interaction using gestures
+# Human-Computer-Interaction using gestures:
 
 Human-Computer-Interaction using gestures is a Python application designed to provide users with customizable gesture controls for launching various applications. This application utilizes Python's tkinter library for creating a graphical user interface (GUI) and interacts with MongoDB for storing user-defined configurations.
 
